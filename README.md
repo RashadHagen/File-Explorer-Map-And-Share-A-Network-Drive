@@ -75,20 +75,6 @@ This project goes over how to map and share a network drive using File Explorer.
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: This PC.  Click: Map network drive.</b></span>  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/FZA45h2.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/lFZa9pg.png" height="50%" width="100%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-<div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Paste: The Network Path of the folder you want in the mapped drive into the: Folder space in Map network drive… (File Explorer).  <a href="https://github.com/RashadHagen/File-Explorer-Share-A-Folder-Using-A-File-Explorer-Network-Path" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Find A Folder’s Network Path In File Explorer</b></span>  
 <br/>
 
