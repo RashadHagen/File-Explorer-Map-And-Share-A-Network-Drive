@@ -39,12 +39,96 @@ This project goes over how to map and share a network drive using File Explorer.
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/si9fLsG.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/ntUHCgD.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/zy3Tjke.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: This PC.  Click: Map network drive.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FZA45h2.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/lFZa9pg.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The Drive letter “Z” if you want to change it to another letter.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eRdwyoC.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/nK4fpEI.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: This PC.  Click: Map network drive.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FZA45h2.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/lFZa9pg.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Paste: The Network Path of the folder you want in the mapped drive into the: Folder space in Map network drive… (File Explorer).  <a href="https://github.com/RashadHagen/File-Explorer-Share-A-Folder-Using-A-File-Explorer-Network-Path" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Find A Folder’s Network Path In File Explorer</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/DuUxHGR.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pZdBPpt.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Finish.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8NQwwlo.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go back to File Explorer.  Click: This PC.  You will see the new mapped drive (ex: Z).  Ex: SMB Share (Windows file share) created in Server Manager – hr</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/hQh0dD5.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/RGcUNTo.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: To Share The Mapped Drive: You will need to enable Share in Properties of the mapped drive in File Explorer.  It is the same as sharing a folder – How to share a folder [LINK: File Explorer - Share A Folder Using A File Explorer Network Path].  So, the users  (AND/OR)  groups you want to share the mapped drive with can use the mapped drive on their computers.</b></span>  
+<br/>
