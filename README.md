@@ -117,4 +117,4 @@ This project goes over how to map and share a network drive using File Explorer.
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: To Share The Mapped Drive: You will need to enable Share in Properties of the mapped drive in File Explorer.  So, the users  (AND/OR)  groups you want to share the mapped drive with can use the mapped drive on their computers.  It is the same as sharing a folder –    <a href="https://github.com/RashadHagen/File-Explorer-Share-A-Folder-Using-A-File-Explorer-Network-Path" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Share A Folder Using File Explorer</b></span>  
-<br/><br/>
+<br/><br/><br/><br/>
